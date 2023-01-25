@@ -1,0 +1,29 @@
+.row {
+  margin-top: 8%;
+}
+h1 {
+  font-size: 2rem;
+  color: #5ea3d1;
+  text-align: center !important;
+  font-weight: 600;
+}
+.mx-auto {
+  margin-top: 40px;
+}
+label {
+  font-size: 20px;
+}
+.left {
+  text-align: left !important;
+}
+.btn {
+  padding: 7px 30px;
+  font-size: 1.1rem;
+}
+hr {
+  margin-right: 0px;
+  margin-left: 13%;
+  margin-top: 0px;
+  width: 15.1rem;
+  border-top: 2px solid white;
+}
